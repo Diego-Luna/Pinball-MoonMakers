@@ -1,8 +1,8 @@
-# MoonMakers-Pinball -> [Launch experiment](https://diego-luna.github.io/MoonMakers-Pinball/)
+# Pinball-MoonMakers -> [Launch experiment](https://diego-luna.github.io/Pinball-MoonMakers/)
 
 ## Overview
 
-MoonMakers-Pinball in a game that works in the browser, where we use our Arduino Nano 33 BLE Sense, as a command to control the imposition of our ball thanks to AI.
+Pinball-MoonMakers in a game that works in the browser, where we use our Arduino Nano 33 BLE Sense, as a command to control the imposition of our ball thanks to AI.
 
 It is a project developed for the TensorFlow Microcontroller Challenge, to create them we used standard web technologies (HTML, CSS and Javascript), matter.js, p5.js, Arduino Sense 33 BLE, TensorFlow Lite for microcontrollers,
 
@@ -81,7 +81,7 @@ The project is divided into three stages:
             * Arduino_TensorFlowLite.
 
     4. Open the sketch and flash.
-        * Download the MoonMakers-Pinball.ino
+        * Download the Pinball-MoonMakers.ino
         * Click the Right arrow in the top left corner to build and upload the sketch.
         * Warning: This process may take a few minutes. Also, warnings may populate but the upload should still succeed in spite of them.
 

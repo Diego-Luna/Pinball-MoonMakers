@@ -41,7 +41,7 @@ void setup()
     while (1);
   }
 
-  BLE.setLocalName("MoonMakers-Pinball");
+  BLE.setLocalName("Pinball-MoonMakers");
   // set the UUID for the service this peripheral advertises:
   BLE.setAdvertisedService(diegoService);
 
