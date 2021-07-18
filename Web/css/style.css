@@ -1,0 +1,62 @@
+:root {
+  --background-color: #202124;
+  --enemys-color: #e53835;
+  --user-lives-color: #2988e5;
+  --ball-color: #2988e5;
+  --user-color: #bdbdbd;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  background-color: white;
+  color: white;
+}
+
+.off {
+  display: none;
+}
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#startBLE {
+  width: 50%;
+  min-width: 300px;
+  height: 22%;
+  min-height: 100px;
+  padding: 1.5%;
+  font-size: 3rem;
+  background-color: var(--background-color);
+  border: none;
+  border-radius: 50px;
+  font-weight: 500;
+}
+
+#points {
+  margin-left: 15px;
+}
+
+.off {
+  display: none;
+}
+
+button {
+  background-color: #4285f4;
+  width: 100px;
+  height: 50px;
+  border: none;
+  border-radius: 50px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
