@@ -1,4 +1,4 @@
-# MoonMakers-Pinball   -> [Launch experiment](https://diego-luna.github.io/MoonMakers-Pinball/)
+# MoonMakers-Pinball -> [Launch experiment](https://diego-luna.github.io/MoonMakers-Pinball/)
 
 ## Overview
 
@@ -17,7 +17,7 @@ The project is divided into three stages:
     * Export the model as a library and add it to the arduino IDE.
     * Enable the BLE connection, to send information from our pairing model to the computer.
 3. Web:
-    * Let the browser detect our arduino and establish a connection. _nota: takes a few seconds to connect_
+    * Let the browser detect our arduino and establish a connection. _note: takes a few seconds to connect_
     * We give gravity to our ball, we detect collisions, to give us points and take our lives.
 
 
